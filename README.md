@@ -21,7 +21,7 @@
  
 <h2 align="center>Linguagens e Ferramentas </h2>
 
-### Linguagens:               
+## Linguagens:
                   
 <div style="display: inline_block"><br>
   <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
