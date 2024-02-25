@@ -13,15 +13,13 @@
 - 🔭 Hoje estudo e me interesso no Front-end
 - 💬 Gosto de conversar
 - 😄 Pronouns: Ele/dele
-<br>
   
 </div>
-  <br>
   
-  <div> 
+<div> 
 <div align="center">
  
-<h2 align="center>Linguagens e Ferramentas</h2>
+<h2 align="center>Linguagens e Ferramentas </h2>
 
 ## Linguagens:               
                   
@@ -30,7 +28,6 @@
   <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
 
 
